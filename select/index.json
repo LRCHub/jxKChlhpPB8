@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Simple Things",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2026-02-07T11:05:38.805603Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Simple Things",
+      "artist": "Zero 7 feat. Mozez",
+      "has_synced": true,
+      "path": "select/01_Simple_Things_Zero_7_feat._Mozez.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Simple Things",
+      "artist": "Zero 7",
+      "has_synced": true,
+      "path": "select/02_Simple_Things_Zero_7.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Simple Things",
+      "artist": "Miguel",
+      "has_synced": true,
+      "path": "select/03_Simple_Things_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Simple Things",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/04_Simple_Things_Nas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Simple Things",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/05_Simple_Things_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Simple Things",
+      "artist": "ASC",
+      "has_synced": false,
+      "path": "select/06_Simple_Things_ASC.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Simple Things",
+      "artist": "Mandalay",
+      "has_synced": false,
+      "path": "select/07_Simple_Things_Mandalay.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Simple Things Part 2",
+      "artist": "Dirty Vegas",
+      "has_synced": false,
+      "path": "select/08_Simple_Things_Part_2_Dirty_Vegas.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Simple Things",
+      "artist": "Belle and Sebastian",
+      "has_synced": true,
+      "path": "select/09_Simple_Things_Belle_and_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Simple Things",
+      "artist": "Belle & Sebastian",
+      "has_synced": true,
+      "path": "select/10_Simple_Things_Belle_&_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Simple Things",
+      "artist": "Zero 7, Mozez",
+      "has_synced": true,
+      "path": "select/11_Simple_Things_Zero_7,_Mozez.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Simple Minds Do Simple Things",
+      "artist": "Junior Senior",
+      "has_synced": true,
+      "path": "select/12_Simple_Minds_Do_Simple_Things_Junior_Senior.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Simple Minds Do Simple Things Part 2",
+      "artist": "Junior Senior",
+      "has_synced": false,
+      "path": "select/13_Simple_Minds_Do_Simple_Things_Part_2_Junior_Senior.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Simple Things",
+      "artist": "Usher",
+      "has_synced": true,
+      "path": "select/14_Simple_Things_Usher.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Simple Things",
+      "artist": "Mya",
+      "has_synced": true,
+      "path": "select/15_Simple_Things_Mya.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Simple Things",
+      "artist": "Joe Cocker",
+      "has_synced": true,
+      "path": "select/16_The_Simple_Things_Joe_Cocker.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Simple Things",
+      "artist": "Joe Cocker",
+      "has_synced": true,
+      "path": "select/17_The_Simple_Things_Joe_Cocker.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Simple Things",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_Simple_Things_Ne-Yo.txt"
+    }
+  ]
+}
