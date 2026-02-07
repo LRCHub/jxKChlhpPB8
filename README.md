@@ -1,0 +1,83 @@
+# Ne-Yo – Simple Things
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+You put on that makeup,
+spend an hour on your hair
+High heels and that red
+dress with a slit right up
+to there and I don't mind
+But sweats, a ponytail,
+and smile suit me just fine
+You'll get in the kitchen,
+make a meal fit for a king
+Burn your hands and cut
+your fingers just to feed me,
+girl, and I appreciate
+But I'd equally
+praise a sandwich that you made
+You can search your whole
+life never to find
+What's standing right in
+front of you
+It's always the simple things,
+the way you laugh
+It's the way you cry to
+your favorite song
+Life is all the in-betweens
+The flowers you find on
+the uphill climb that keep
+you movin' on
+And after you stop chasing
+Is when you find out all
+that really made sense
+Is the simple things
+It's always the simple things
+Head up in the clouds,
+so many nights out on the road
+To come to the conclusion
+that there ain't no place
+like home
+I took some pretty pictures,
+and I made some memories
+But there's one truth that
+still amazes me
+It's always the simple things,
+the way you laugh
+It's the way you cry to
+your favorite song
+Life is all the in-betweens
+The flowers you find on
+the uphill climb that keep
+you movin' on
+And after you stop chasing
+Is when you find out all
+that really made sense
+It's the little things,
+and the big dreams
+All the unseens looking back
+at me
+It's the long talks,
+and the quiet drives
+And the slow walks,
+that's when you realize
+It's always the simple things
+Always the simple things
+It's always the simple things,
+the way you laugh
+It's the way you cry to
+your favorite song
+Life is all the in-betweens
+The flowers you find on
+the uphill climb that keep
+you movin' on
+And after you stop chasing
+Is when you find out all
+that really made sense
+Is the simple things
+It's always the simple things
+Oh-oh
+It's always the simple things,
+yeah
+```
